@@ -1,0 +1,11 @@
+During my past programming experience, I especially enjoyed writting business logic code because of the following reasons:
+1. it needs involve business knowledge and contexts to create the data table, schemas, business models and context data structures.
+2. it needs business rules invloved for data validation, therefore some validation rule and enginee need created.
+3. it needs robust service layer to be created to handle the multithread data trnsactions and retrievals.
+4. it needs well designed algorithm to support the convoluted business logic.
+5. it needs numerous unit test methods to validate the code logic.
+
+I also enjoyed involving the inhouse API library creation and testing, such as for some special data structure and functionalities: concurrent list, smart sorting, aggregation pipe line, split pipe line, etc. 
+
+Since all the codes are companies' property, I was not allowed to bring the code out after I left the companies, so I really have no code to share. 
+You are more than welcome to have me do more coding test or pseudo code writting for some interesting algorithm problem solvings.
